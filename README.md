@@ -1,2 +1,4 @@
 # 041022-Challenge
-Module 2 Challenge
+
+This is Module 2 Challenge - Creating a Loan Qualifier Application.
+
